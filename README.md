@@ -143,7 +143,6 @@ deeplearning/
 └── data_utils.py       # Data loading and preprocessing
 ```
 
-
 ## Acknowledgments
 
 This implementation is based on UC Berkeley's CS182 course materials and serves as an educational tool for understanding neural network fundamentals.
